@@ -41,8 +41,8 @@ define('ADMIN_EMAIL','asd@example.com');
 define('DBTYPE','mysql');
 define('DBHOST','117.53.46.126');
 define('DBNAME','osticket');
-define('DBUSER','goffi_ticket');
-define('DBPASS','Goffi_ticket2020');
+define('DBUSER','undifinied');
+define('DBPASS','@#DbDem#$769112021');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');
@@ -159,4 +159,3 @@ define('LOCAL_NETWORKS', '127.0.0.0/24');
 #
 # define('SESSION_BACKEND', 'memcache');
 # define('MEMCACHE_SERVERS', 'server1:11211,server2:11211');
-?>
